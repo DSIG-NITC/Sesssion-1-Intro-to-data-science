@@ -26,7 +26,7 @@ Materials related to the inaugural session of DSIG-NITC on "Introduction to Data
 4. Enter `cd Sesssion-1-Intro-to-data-science` to move into the project directory
 
 
-5. Try executing `git remote --v`. You'll get this output
+5. Try executing `git remote -v`. You'll get this output
 
     ```
     origin  https://github.com/DSIG-NITC/Sesssion-1-Intro-to-data-science.git (fetch)

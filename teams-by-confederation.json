@@ -1,1 +1,44 @@
-{"AFC": ["Australia", "Iran", "Japan", "Saudi Arabia", "South Korea"], "CAF": ["Egypt", "Morocco", "Nigeria", "Senegal", "Tunisia"], "CONCACAF": ["Costa Rica", "Mexico", "Panama"], "CONMEBOL": ["Argentina", "Brazil", "Colombia", "Peru", "Uruguay"], "UEFA": ["Belgium", "Croatia", "Denmark", "England", "France", "Germany", "Iceland", "Poland", "Portugal", "Russia", "Serbia", "Spain", "Sweden", "Switzerland"]}
+{
+  "AFC": [
+    "Australia",
+    "Iran",
+    "Japan",
+    "Saudi Arabia",
+    "South Korea"
+  ],
+  "CAF": [
+    "Egypt",
+    "Morocco",
+    "Nigeria",
+    "Senegal",
+    "Tunisia"
+  ],
+  "CONCACAF": [
+    "Costa Rica",
+    "Mexico",
+    "Panama"
+  ],
+  "CONMEBOL": [
+    "Argentina",
+    "Brazil",
+    "Colombia",
+    "Peru",
+    "Uruguay"
+  ],
+  "UEFA": [
+    "Belgium",
+    "Croatia",
+    "Denmark",
+    "England",
+    "France",
+    "Germany",
+    "Iceland",
+    "Poland",
+    "Portugal",
+    "Russia",
+    "Serbia",
+    "Spain",
+    "Sweden",
+    "Switzerland"
+  ]
+}

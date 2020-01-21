@@ -4,9 +4,9 @@ Materials related to the inaugural session of DSIG-NITC on "Introduction to Data
 
 ## Todos
 
-- [ ] Fix day of session
-- [ ] Content for communicating event
-- [ ] Create lecture content
+- [X] Fix day of session
+- [X] Content for communicating event
+- [X] Create lecture content
 - [ ] Create assignments
 
 

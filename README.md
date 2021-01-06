@@ -17,7 +17,7 @@ Materials related to the inaugural session of DSIG-NITC on "Introduction to Data
 2. Setup your Git client as explained in [this](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) article
 
 
-3. Clone this repository by typing `git@github.com:DSIG-NITC/Sesssion-1-Intro-to-data-science.git`
+3. Clone this repository by typing `git clone git@github.com:DSIG-NITC/Sesssion-1-Intro-to-data-science.git`
 
   *If you're having trouble copy-paste ing using Ctrl-C Ctrl-V, use Ctrl-Insert Shift-Insert*
 
